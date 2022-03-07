@@ -9,18 +9,10 @@ restrictive feeling of those websites. I didn't want the zoo experience, I wante
 So the journey began...
 
 
-## 🔗 Links
+## 🔗 Connect with me:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-platt-linked/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/webDevAl)
-
-### Connect with me:
-
-[![website](./img/twitter-dark.svg)](https://twitter.com/webDevAl#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alex-platt-linked#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alex-platt-linked#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on... my portfolio.
