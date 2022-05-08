@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm an aspiring professional fullstack developer. I began
 to code after exploring website builders such as Wix and 
-SquareSpace to build a site for my Cafe & Catering business. 
+SquareSpace to build a site during my masters degree. 
 I really enjoyed the process, but became frustrated at the 
 restrictive feeling of those websites. I didn't want the zoo experience, I wanted the jungle!
 So the journey began...
