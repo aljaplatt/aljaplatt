@@ -54,10 +54,6 @@ So the journey began...
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljaplatt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aljaplatt)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 aljaplatt/aljaplatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
